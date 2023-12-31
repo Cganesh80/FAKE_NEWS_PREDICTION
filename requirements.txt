@@ -6,4 +6,9 @@ plotly.express
 scikit-learn
 lightgbm
 optuna
+PyPI
+backcall
+datetime
+Regex
+nltk
 
